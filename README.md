@@ -1,5 +1,3 @@
-# [Модель для рекомендации тарифа мобильного оператора](https://nbviewer.jupyter.org/github/Nanobelka/Yandex_Praktikum/blob/main/mobile_tariff_recomendation/mobile_tariff_recomendation.ipynb)
-
 # [Модель для рекомендации тарифа мобильного оператора](https://nbviewer.jupyter.org/github/Nanobelka/mobile_tariff_recomendation/blob/main/mobile_tariff_recomendation.ipynb)
 ## На основании ряда характеристик порекомендовать клиенту архивного тарифа наиболее подходящий действующий тариф
 
